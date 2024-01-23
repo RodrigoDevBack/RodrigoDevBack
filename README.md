@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do RodrigoDevBack😁
 
  <div>
    <a href="https://github.com/RodrigoDevBack">
@@ -12,7 +12,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Contatos disponíveis!
  
 <div> 
   <a href="https://instagram.com/rodrigo_rmst" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
