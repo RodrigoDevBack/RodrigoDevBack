@@ -8,7 +8,7 @@
     
 <div style="display: inline_block"><br>
   <img align="center" alt="PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="HTML 5" height="30" width="40" src="https://icons8.com.br/icon/20909/html-5">
+  <img align="center" alt="HTML 5" height="30" width="40" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000">
 </div>
  
 <br>
