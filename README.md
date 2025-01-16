@@ -8,7 +8,7 @@
     
 <div style="display: inline_block"><br>
   <img align="center" alt="PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="JAVA" height="35" width="40" src="https://icons8.com.br/icon/13679/java-coffee-cup-logo">
+  <img align="center" alt="JAVA" height="35" width="40" src="https://icons8.com.br/icon/13679/java">
 </div>
  
 <br>
