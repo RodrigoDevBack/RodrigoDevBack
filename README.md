@@ -2,13 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15e5a6&size=35&center=true&vCenter=true&width=1000&lines=OL%C3%81,+MEU+NOME+%C3%A9+RODRIGO+MORAES+DOS+SANTOS;+Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<br>
 
 
 
 ### 👨REDES SOCIAIS
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo_rmst/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-moraes-7a65232b7/)
-
+<br> <br>
 
 
 
@@ -31,7 +32,7 @@
 <img style="width: 60px;" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL">
 
 
-</div><br/> 
+</div> <br> <br> 
 
 
 
