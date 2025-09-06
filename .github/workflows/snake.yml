@@ -1,9 +1,9 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # Atualiza automaticamente todo dia
+  schedule: # Atualiza automaticamente todo dia à meia-noite (UTC)
     - cron: "0 0 * * *"
-  workflow_dispatch: # Permite rodar manualmente
+  workflow_dispatch: # Permite rodar manualmente no GitHub Actions
 
 jobs:
   build:
