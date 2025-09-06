@@ -17,10 +17,10 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RodrigoDevBack&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodrigoDevBack/RodrigoDevBack/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoDevBack/RodrigoDevBack/output/github-contribution-grid-snake-light.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RodrigoDevBack/RodrigoDevBack/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RodrigoDevBack/RodrigoDevBack/output/github-contribution-grid-snake.svg">
 </picture>
 
 <picture align="center">
