@@ -21,10 +21,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RodrigoDevBack&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-## 🌐 Tecnologias de domínio:
+## 🌐 Tecnologias de trabalho:
 
 
-<img style="width: 60px;" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java">
 <img style="width: 60px;" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python">
 <img style="width: 60px;" src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" alt="Docker">
 <img style="width: 60px;" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git">
