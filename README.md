@@ -45,7 +45,7 @@
    
 ## 🚀 aprendizado contínuo e colaboração
 
-## 📚 Sou muito ávido em aprender novas tecnologias
+## 📚 Ávido por aprender novas tecnologias e dominá-las
 
 ## 🎭 Expressivo, comunicativo e indagador 
 
