@@ -6,7 +6,7 @@
 
 
 
-### 👨REDES SOCIAIS
+###                                  👨REDES SOCIAIS
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo_rmst/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-moraes-7a65232b7/)
 <br> <br>
@@ -16,7 +16,6 @@
  ##                                   📊Estatísticas
  
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RodrigoDevBack&show_icons=true&count_private=true&hide_border=true&title_color=15e5a6&icon_color=15e5a6&text_color=c9d1d9&bg_color=0d1117" alt="RodrigoDevBack github stats"/>
 
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RodrigoDevBack&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -30,6 +29,12 @@
 <img style="width: 60px;" src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" alt="Docker">
 <img style="width: 60px;" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git">
 <img style="width: 60px;" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL">
+<img style="width: 60px;" src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000" alt="JavaScript">
+<img style="width: 60px;" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="TypeScript">
+<img style="width: 60px;" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="Html">
+<img style="width: 60px;" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS">
+<img style="width: 60px;" src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" alt="NextJS">
+<img style="width: 60px;" src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" alt="ReactJS">
 
 
 </div> <br> <br> 
@@ -37,7 +42,7 @@
 
 
 
-###  👨‍💻 Sobre mim 
+###                                    👨‍💻 Sobre mim 
    
 ## 🚀 aprendizado contínuo e colaboração
 
