@@ -18,7 +18,7 @@
 <div align="center">  
 
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RodrigoDevBack&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RodrigoDevBack&bg_color=000000&color=4558e8&line=04b470&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 🌐 Tecnologias de trabalho:
